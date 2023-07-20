@@ -7,7 +7,7 @@
 
 
 <h2>Certifications</h2>
-<img align="left" alt="Holly Dowdle ISC2" width="50px" height="50px" src="https://i.imgur.com/2CmBNJa.png" />
+<b><img align="left" alt="Holly Dowdle ISC2" width="50px" height="50px" src="https://i.imgur.com/2CmBNJa.png" />
 <img align="left" alt="Holly Dowdle CSIS" width="50px" height="50px" src="https://i.imgur.com/MSY8Sdv.png" />
 <img align="left" alt="Holly Dowdle CySA" width="50px" height="50px" src="https://i.imgur.com/92Gkytb.png" />
 <img align="left" alt="Holly Dowdle CSAP" width="50px" height="50px" src="https://i.imgur.com/NlH1Oxt.png" />
@@ -17,7 +17,7 @@
 <img align="left" alt="Holly Dowdle Network" width="50px" height="50px" src="https://i.imgur.com/K6drGd3.png" />
 <img align="left" alt="Holly Dowdle CIOS" width="50px" height="50px" src="https://i.imgur.com/Oe66AQk.png" />
 <img align="left" alt="Holly Dowdle Project" width="50px" height="50px" src="https://i.imgur.com/QoQViLz.png" />
-<img align="left" alt="Holly Dowdle A+" width="50px" height="50px" src="https://i.imgur.com/ssopeTO.png" />
+<img align="left" alt="Holly Dowdle A+" width="50px" height="50px" src="https://i.imgur.com/ssopeTO.png" /><b/>
 
 
 
