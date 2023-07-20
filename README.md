@@ -7,7 +7,7 @@
 
 
 <h2>📺 Certifications</h2>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fcd05a6-3321-48d5-80a5-0905c5ae106a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2fcd05a6-3321-48d5-80a5-0905c5ae106a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>]
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5b37acce-7690-4db5-8f13-9050a6b0995f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
