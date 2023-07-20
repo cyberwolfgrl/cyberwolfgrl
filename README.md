@@ -1,16 +1,16 @@
 <h1>Hi, I'm Holly! <br/><a href="https://github.com/cyberwolfgrl">Cybersecurity Professional</a>, </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2> Cyber Security Projects:</h2>
 
 - <b>Penetration Tests</b>
   - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
 
 
-<h2>📺 Certifications</h2>
-[<img align="left" alt="Holly Dowdle ISC2" width="22px" height="22px" src="https://i.imgur.com/2CmBNJa.png" />]
+<h2> Certifications</h2>
+[<img align="left" alt="Holly Dowdle ISC2" width="50px" height="50px" src="https://i.imgur.com/2CmBNJa.png" />]
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>  Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
