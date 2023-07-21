@@ -1,4 +1,4 @@
-<h1>Hi, I'm Holly! <br/><a href="https://github.com/cyberwolfgrl">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Holly! <br/><a href="https://github.com/cyberwolfgrl">Cybersecurity and Technology Professional</a>, </h1>
 
 <h2>Cyber Security Projects:</h2>
 
