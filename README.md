@@ -6,8 +6,7 @@
   - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
 
 <h2>Written Project Proposals (Writing Sample)</h2>
-  -<b></b> VPN Project<b/>
-  -[VPN for a School District](https://github.com/cyberwolfgrl/VPN-Project-Proposal/blob/main/README.md)
+  -<b>VPN Project(https://github.com/cyberwolfgrl/VPN-Project-Proposal/blob/main/README.md)</b>
     
 <h2>Certifications</h2>
 <img align="left" alt="Holly Dowdle ISC2" width="50px" height="50px" src="https://i.imgur.com/2CmBNJa.png" />
