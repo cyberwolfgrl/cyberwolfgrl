@@ -5,7 +5,7 @@
 - <b>Penetration Tests</b>
   - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
 
-<h2>Written Project Proposals (Writing Sample)<h2/>
+<h2>Written Project Proposals (Writing Sample)</h2>
   -<b></b> VPN Project<b/>
   -[VPN for a School District](https://github.com/cyberwolfgrl/VPN-Project-Proposal/blob/main/README.md)
     
