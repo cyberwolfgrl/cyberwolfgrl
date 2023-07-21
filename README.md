@@ -6,6 +6,10 @@
   - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
 
 <h2>Written Project Proposals: (Writing Sample)</h2>
+
+- <b>Penetration Tests</b>
+  - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
+
 - <b>VPN PROJECT</b>
     - Project link (https://github.com/cyberwolfgrl/VPN-Project-Proposal/tree/main)
 <h2>Certifications</h2>
