@@ -7,11 +7,8 @@
 
 <h2>Written Project Proposals: (Writing Sample)</h2>
 
-- <b>Penetration Tests</b>
-  - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
-
 - <b>VPN PROJECT</b>
-    - Project link (https://github.com/cyberwolfgrl/VPN-Project-Proposal/tree/main)
+    - [Project link](https://github.com/cyberwolfgrl/VPN-Project-Proposal/tree/main)
 <h2>Certifications</h2>
 <img align="left" alt="Holly Dowdle ISC2" width="50px" height="50px" src="https://i.imgur.com/2CmBNJa.png" />
 <img align="left" alt="Holly Dowdle CSIS" width="50px" height="50px" src="https://i.imgur.com/MSY8Sdv.png" />
