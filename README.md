@@ -6,7 +6,7 @@
   - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
  
 - <b>NMAP Scans
-  -Examples from various nmap scans
+  -Examples from various nmap scans(https://github.com/cyberwolfgrl/NMAP-Scans/tree/main)
 
 <h2>Written Project Proposals: (Writing Sample)</h2>
 
