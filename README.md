@@ -10,7 +10,7 @@
 
 <h2>Python Projects and Examples:</h2>
   - <b> Magic 8 Ball </b>
-    - [Magic 8 Ball](https://github.com/cyberwolfgrl/Python/blob/ea6863f4670077912fa88a62d390658c2df0298f/Magic%208%20ball)
+    - <h3>[Magic 8 Ball](https://github.com/cyberwolfgrl/Python/blob/ea6863f4670077912fa88a62d390658c2df0298f/Magic%208%20ball)</h3>
     
 <h2>Written Project Proposals: (Writing Sample)</h2>
 
