@@ -5,7 +5,7 @@
 - <b>Penetration Tests</b>
   - [Pracitice coding and using a Keylogger](https://github.com/cyberwolfgrl/Keylogger/tree/main)
  
-- <b>NMAP Scans
+- <b>NMAP Scans</b>
   - [Examples from various nmap scans](https://github.com/cyberwolfgrl/NMAP-Scans/tree/mai)
 
 <h2>Python Projects and Examples:</h2>
