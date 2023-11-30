@@ -9,8 +9,8 @@
   - [Examples from various nmap scans](https://github.com/cyberwolfgrl/NMAP-Scans/tree/mai)
 
 <h2>Python Projects and Examples:</h2>
-  - <b>Magic 8 Ball</b>
-    -
+  <b>Magic 8 Ball</b>
+    
 <h2>Written Project Proposals: (Writing Sample)</h2>
 
 - <b>VPN PROJECT</b>
