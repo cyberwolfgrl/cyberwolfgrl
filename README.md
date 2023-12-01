@@ -9,7 +9,7 @@
   - [Examples from various nmap scans](https://github.com/cyberwolfgrl/NMAP-Scans/tree/mai)
 
 <h2>Python Projects and Examples:</h2>
-  - <b>Magic 8 Ball (Magic 8 ball)</b> 
+  - <b>[Magic 8 Ball](https://github.com/cyberwolfgrl/Python/blob/main/Magic%208%20ball)</b> 
   
     
 <h2>Written Project Proposals: (Writing Sample)</h2>
