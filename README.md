@@ -38,9 +38,9 @@
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href = "https://linkedin.com/in/holly-dowdle-53b8b8128"><img align="left" alt="JoshMadakor | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-[linkedin]: https://linkedin.com/in/holly-dowdle-53b8b8128
+
 
 
 <!--
