@@ -9,7 +9,7 @@
   - [Examples from various nmap scans](https://github.com/cyberwolfgrl/NMAP-Scans/tree/mai)
 
 <h2>Python Projects and Examples:</h2>
-   * <a href ="https://github.com/cyberwolfgrl/Python/blob/main/Magic%208%20ball"> Magic 8 Ball</a>
+   <a href ="https://github.com/cyberwolfgrl/Python/blob/main/Magic%208%20ball"> <ul> <li>Magic 8 Ball</li></ul></a>
   
     
 <h2>Written Project Proposals: (Writing Sample)</h2>
@@ -17,7 +17,8 @@
 - <b>VPN PROJECT</b>
     - [Project link](https://github.com/cyberwolfgrl/VPN-Project-Proposal/tree/main)
 <h2>Agile and Scrum:</h2>
-- <b>Jira Example</b>
+<a href = "https://github.com/cyberwolfgrl/Agile-and-Scrum/tree/main"> <ul> <li>Jira Example </li> </ul> </a> 
+  
 <h2>Certifications</h2>
 <img align="left" alt="Holly Dowdle ISC2" width="50px" height="50px" src="https://i.imgur.com/2CmBNJa.png" />
 <img align="left" alt="Holly Dowdle CSIS" width="50px" height="50px" src="https://i.imgur.com/MSY8Sdv.png" />
